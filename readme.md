@@ -67,6 +67,14 @@ Here are some snippets to get you going:
 }
 ```
 
+### Charge shipping fees without collecting address
+
+```
+#payment_postal_code, #payment_address_one, #payment_address_two, #payment_city, .state_input {
+  display: none;
+}
+```
+
 ## Custom JavaScript
 
 
